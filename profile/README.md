@@ -195,6 +195,7 @@ https://docs.google.com/document/d/1TWgjU9hV0XPo2gsXWexoULUe6rW_u7dbtkAzxbyKr_g/
 
 1. Li Y, Yang L, Shen W, et al. CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom[J]. arXiv preprint arXiv:2503.01836, 2025.
 2. Liu G, Lin W, Huang T, et al. Targeted vaccine: Safety alignment for large language models against harmful fine-tuning via layer-wise perturbation[J]. arXiv preprint arXiv:2410.09760, 2024.
+3. Shen W, Wang M, Wang Y, et al. Are We on the Right Way for Assessing Document Retrieval-Augmented Generation?[J]. arXiv preprint arXiv:2508.03644, 2025.
 
 ## 4.时序预测模型与应用 
 
