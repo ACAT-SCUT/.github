@@ -14,9 +14,9 @@
 
 林升升长期致力于**面向长时间序列预测的高效模型设计**，围绕周期性特征建模展开系统研究，形成了SparseTSF → CycleNet → TQNet的连续技术路线：
 
-- **SparseTSF**：通过跨周期稀疏预测实现超轻量设计，性能接近主流SOTA；
-- **CycleNet**：在SparseTSF的基础上显式引入可学习周期参数，强化周期性信号建模；
-- **TQNet**：进一步扩展到多变量时序预测任务，提出时间查询机制以增强跨变量关系建模；
+- **[SparseTSF](https://github.com/lss-1138/SparseTSF)**：通过跨周期稀疏预测实现超轻量设计，性能接近主流SOTA；
+- **[CycleNet](https://github.com/ACAT-SCUT/CycleNet)**：在SparseTSF的基础上显式引入可学习周期参数，强化周期性信号建模；
+- **[TQNet](https://github.com/ACAT-SCUT/TQNet)**：进一步扩展到多变量时序预测任务，提出时间查询机制以增强跨变量关系建模；
 
 该系列工作系统性地推动了轻量化长时序预测模型的发展，在参数量、泛化性能与建模效率之间取得了良好平衡。
 
