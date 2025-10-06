@@ -10,20 +10,20 @@
 
 **一、[数据中心节能与绿色计算](./research-resources/power.md)**: 服务器算力和集群能效建模优化与节能、集群和AI算力能效基准、数据中心PUE建模仿真优化、数据中心散热建模与制冷优化、数据中心供电管理优化等；
 
-相关同学：黄惠康、莫瑞超、罗潇轩、钟浩城、牟奇、邱鸿楷、陈泊圻、鄢志宇、尹浩朗、姚子毅、李卓兴、李昱、李俊淇
+相关同学：[黄惠康](./students/huanghuikang.md)、[莫瑞超](./students/moruichao.md)、[罗潇轩](./students/luoxiaoxuan.md)、[钟浩城](./students/zhonghaocheng.md)、[牟奇](./students/muqi.md)、邱鸿楷、陈泊圻、鄢志宇、尹浩朗、姚子毅、李卓兴、李昱、李俊淇
 
 **二、[云计算调度和算力管理优化](./research-resources/scheduling.md)**: 云计算智能调度(弹性、VM、容器)、异构算力(CPU和GPU、NPU等AI算力)管理和调度优化、面向AI大模型和HPC等应用场景的算力优化等；
 
-相关同学：王新华、利建卓、熊辰念、吴海杰、陈冠宇、黄悦斌、李孟恒、叶晓明、庄梓龙、卢沂康、吴姿娴、吴陈洁婷、吴凯敏、徐浩恩、李维东
+相关同学：[王新华](./students/wangxinhua.md)、[利建卓](./students/lijianzhuo.md)、[熊辰念](./students/xiongchennian.md)、[吴海杰](./students/wuhaijie.md)、[陈冠宇](./students/chenguanyu.md)、[黄悦斌](./students/huangyuebin.md)、[李孟恒](./students/limengheng.md)、[叶晓明](./students/yexiaoming.md)、庄梓龙、卢沂康、吴姿娴、吴陈洁婷、吴凯敏、徐浩恩、李维东
 
 **三、[大模型优化与应用](./research-resources/llm.md)**: 大模型资源高效的微调技术、大模型性能能效评测优化和安全技术多模态大模型技术、大模型垂直应用(文档内容智能审查、智能问答助手、地方志应用)等；
 
-相关同学：刘国志、彭鹏、黄嘉华、沈文轩、熊潼、肖亦灯、吴纪宽、温文浩、袁振东、陈云风、张志鹏、徐尔羚、孟子越
+相关同学：[刘国志](./students/liuguozhi.md)、[彭鹏](./students/pengpeng.md)、[黄嘉华](./students/huangjiahua.md)、[沈文轩](./students/shenwenxuan.md)、[熊潼](./students/xiongtong.md)、肖亦灯、吴纪宽、温文浩、袁振东、陈云风、张志鹏、徐尔羚、孟子越
 
 **四、[时序预测模型与应用](./research-resources/ts.md)**: 轻量化时序预测模型、高效多元时间序列预测模型、面向具体应用场景的预测算法(异常检测、功耗预测、股票预测、气候预测等)、工业时序大模型等；
 
-相关同学：胡正阳、[林升升](./students/linshengsheng.md)、陈浩钧、雷富凯、邱椿雲、孙家政
+相关同学：[胡正阳](./students/huzhengyang.md)、[林升升](./students/linshengsheng.md)、陈浩钧、雷富凯、邱椿雲、孙家政
 
 **五、[边缘智能与联邦学习](./research-resources/fl.md)**: 基于Atlas计算平台创新协同技术、动态异构设备的统一管理与融合调度、跨端智能协同技术、联邦学习优化算法、联邦学习框架、联邦学习应用；
 
-相关同学：李董东、张皓同、李胜海、周智勇、林锦辉、李昊
+相关同学：[张皓同](./students/zhanghaotong.md)、[李胜海](./students/lishenghai.md)、周智勇、林锦辉、李昊
