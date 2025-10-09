@@ -32,5 +32,9 @@ https://docs.google.com/document/d/1TWgjU9hV0XPo2gsXWexoULUe6rW_u7dbtkAzxbyKr_g/
 
 #### 3.2.2大模型
 
-1. Li Y, Yang L, Shen W, et al. CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom[J]. arXiv preprint arXiv:2503.01836, 2025.
-2. Liu G, Lin W, Huang T, et al. Targeted vaccine: Safety alignment for large language models against harmful fine-tuning via layer-wise perturbation[J]. arXiv preprint arXiv:2410.09760, 2024.
+1. Yisen Li, Lingfeng Yang, et al. CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom[J]. arXiv preprint arXiv:2503.01836, 2025.
+2. Guozhi Liu, Weiwei Lin, et al., "Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2025.3615412.
+3. Wenxuan Shen, Mingjia Wang, et al. "Are We on the Right Way for Assessing Document Retrieval-Augmented Generation?." arXiv preprint arXiv:2508.03644, 2025.
+
+4. 申请发明专利（202510978377.2 ）. 面向安全性优化与高效训练的大语言模型数据选择方法及装置. 2025.07. 林伟伟, 刘国志
+5. 申请发明专利（202510936915.1）. 基于大模型驱动的多智能体协同城市社区空间规划方法及装置. 2025.07. 林伟伟, 刘国志, 黄奕铭, 丁俊, 张海涛, 张思敏, 李俊霖, 庞杰
