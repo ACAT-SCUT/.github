@@ -20,9 +20,9 @@
 
 ## 已发表论文
 
-1. **Guozhi Liu**, Weiwei Lin, Qi Mu, Tiansheng Huang, Ruichao Mo, Yuren Tao, and Li Shen. "Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2025.3615412.
-2. **Guozhi Liu**, Weiwei Lin, Tiansheng Huang, Fang Shi, Wentai Wu, and Li Shen. "AdaptiveFL: Communication-Adaptive Federated Learning Under Dynamic Bandwidth," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 9, pp. 17199-17211, Sept. 2025, doi: 10.1109/TNNLS.2025.3560656.
-3. **Guozhi Liu**, Weiwei Lin, Haotong Zhang, Jianpeng Lin, Shaoliang Peng, and Keqin Li. Public Datasets for Cloud Computing: A Comprehensive Survey. ACM Comput. Surv. 57, 8, Article 198 (August 2025), 38 pages. https://doi.org/10.1145/3719003.
+1. **Guozhi Liu**, Weiwei Lin*, Qi Mu, Tiansheng Huang, Ruichao Mo, Yuren Tao, and Li Shen. "Targeted Vaccine: Safety Alignment for Large Language Models against Harmful Fine-Tuning via Layer-wise Perturbation," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2025.3615412.
+2. **Guozhi Liu**, Weiwei Lin*, Tiansheng Huang, Fang Shi, Wentai Wu, and Li Shen. "AdaptiveFL: Communication-Adaptive Federated Learning Under Dynamic Bandwidth," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 9, pp. 17199-17211, Sept. 2025, doi: 10.1109/TNNLS.2025.3560656.
+3. **Guozhi Liu**, Weiwei Lin*, Haotong Zhang, Jianpeng Lin, Shaoliang Peng, and Keqin Li. Public Datasets for Cloud Computing: A Comprehensive Survey. ACM Comput. Surv. 57, 8, Article 198 (August 2025), 38 pages. https://doi.org/10.1145/3719003.
 
 
 ## 相关链接
