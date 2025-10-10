@@ -18,7 +18,7 @@
 
 **三、[大模型优化与应用](./research-resources/llm.md)**: 大模型资源高效的微调技术、大模型性能能效评测优化和安全技术多模态大模型技术、大模型垂直应用(文档内容智能审查、智能问答助手、地方志应用)等；
 
-相关同学：[刘国志](./students/liuguozhi.md)、[彭鹏](./students/pengpeng.md)、[黄嘉华](https://dadiaokua.github.io)、[沈文轩](./students/shenwenxuan.md)、[熊潼](./students/xiongtong.md)、肖亦灯、吴纪宽、温文浩、袁振东、陈云风、张志鹏、徐尔羚、孟子越
+相关同学：[刘国志](./students/liuguozhi.md)、[彭鹏](./students/pengpeng.md)、[黄嘉华](https://dadiaokua.github.io)、[沈文轩](./students/shenwenxuan.md)、[熊潼](./students/xiongtong.md)、[孟子越](mengziyue.md)、肖亦灯、吴纪宽、温文浩、袁振东、陈云风、张志鹏、徐尔羚
 
 **四、[时序预测模型与应用](./research-resources/ts.md)**: 轻量化时序预测模型、高效多元时间序列预测模型、面向具体应用场景的预测算法(异常检测、功耗预测、股票预测、气候预测等)、工业时序大模型等；
 
