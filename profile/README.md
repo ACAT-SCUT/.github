@@ -10,7 +10,7 @@
 
 **一、[数据中心节能与绿色计算](./research-resources/power.md)**: 服务器算力和集群能效建模优化与节能、集群和AI算力能效基准、数据中心PUE建模仿真优化、数据中心散热建模与制冷优化、数据中心供电管理优化等；
 
-相关同学：[黄惠康](./students/huanghuikang.md)、[莫瑞超](./students/moruichao.md)、[罗潇轩](./students/luoxiaoxuan.md)、[钟浩城](./students/zhonghaocheng.md)、[牟奇](./students/muqi.md)、邱鸿楷、陈泊圻、鄢志宇、尹浩朗、姚子毅、李卓兴、李昱、李俊淇
+相关同学：[黄惠康](https://wellcome0321.github.io)、[莫瑞超](./students/moruichao.md)、[罗潇轩](./students/luoxiaoxuan.md)、[钟浩城](./students/zhonghaocheng.md)、[牟奇](./students/muqi.md)、邱鸿楷、陈泊圻、鄢志宇、尹浩朗、姚子毅、李卓兴、李昱、李俊淇
 
 **二、[云计算调度和算力管理优化](./research-resources/scheduling.md)**: 云计算智能调度(弹性、VM、容器)、异构算力(CPU和GPU、NPU等AI算力)管理和调度优化、面向AI大模型和HPC等应用场景的算力优化等；
 
